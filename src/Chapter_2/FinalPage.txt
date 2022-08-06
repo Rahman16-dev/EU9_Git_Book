@@ -1,0 +1,9 @@
+
+
+So far we have learnt Git flow for
+commit --> Push
+
+and
+
+Remote -> Local
+Pull / Update
