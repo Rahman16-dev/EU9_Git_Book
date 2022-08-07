@@ -9,4 +9,6 @@ public class TestCase002 {
     // Testing for Menus
 
     // Are they clickable?
+
+    // Testing the responses of the page
 }
