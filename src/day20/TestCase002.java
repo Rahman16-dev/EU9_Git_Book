@@ -5,4 +5,8 @@ public class TestCase002 {
 
 
     // Setting up Test Case 2
+
+    // Testing for Menus
+
+    // Are they clickable?
 }
