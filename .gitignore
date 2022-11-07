@@ -1,8 +1,7 @@
-.idea
-*.iml
-out
-*.xml
-Secret.txt
-fun.txt
+/.idea/
+/target/
+/.iml/
+/out /
+
 
 
